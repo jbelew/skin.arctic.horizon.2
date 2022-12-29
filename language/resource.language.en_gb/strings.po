@@ -1814,3 +1814,18 @@ msgstr ""
 msgctxt "#31360"
 msgid "Disable all ratings"
 msgstr ""
+
+#: /1080i/SkinSettings.xml
+msgctxt "#31361"
+msgid "Customise background image"
+msgstr ""
+
+#: /1080i/Custom_1112_Backgrounds.xml
+msgctxt "#31362"
+msgid "Media Info Basic"
+msgstr ""
+
+#: /1080i/Includes_Views_List.xml
+msgctxt "#31363"
+msgid "Media Info Playlist"
+msgstr ""
